@@ -9,7 +9,6 @@ public class test1 {
 		// TODO Auto-generated method stub
 		System.out.println("1111111111111");
 		System.out.println("6666666666666");
-
 	}
 
 }
